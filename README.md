@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Data Structures and Algorithms in Python
+Data Structures and Algorithms in Python from the Udemy course. 
