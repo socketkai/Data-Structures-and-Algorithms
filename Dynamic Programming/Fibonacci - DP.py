@@ -20,7 +20,7 @@ def fibo(n):
     cache[n] = n
     return cache[n]
   else :
-    cache[n] = fib(n-1) + fib(n-2)
+    cache[n] = fibo(n-1) + fibo(n-2)
   
     return cache[n]
 
